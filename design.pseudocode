@@ -1,0 +1,4 @@
+GET radius_top_integer
+GET height_integer
+GET radius_bottom_integer
+volume = 1 / 3 * math_pi * height_integer * (pow(radius_top_integer, 2) + radius_top_integer * radius_bottom_integer + pow(radius_bottom_integer, 2))
