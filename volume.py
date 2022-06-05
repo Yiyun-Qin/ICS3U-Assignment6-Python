@@ -28,7 +28,7 @@ def main():
     )
     print("This function calculates its volume.")
     radius_top_string = input("Enter the radius of the circle at the top (cm): ")
-    radius_bottom_string = input("Enter the radius of the circle at the top (cm): ")
+    radius_bottom_string = input("Enter the radius of the circle at the bottom (cm): ")
     height_string = input("Enter the height (cm): ")
 
     # process & output
