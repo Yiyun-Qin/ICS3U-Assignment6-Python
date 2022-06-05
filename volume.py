@@ -24,7 +24,7 @@ def main():
 
     # input
     print(
-        "A circular truncated cone is solid figure that looks like a cone with the tip straight cut off."
+        "A circular truncated cone is a solid figure that looks like a cone with the tip straight cut off."
     )
     print("This function calculates its volume.")
     radius_top_string = input("Enter the radius of the circle at the top (cm): ")
